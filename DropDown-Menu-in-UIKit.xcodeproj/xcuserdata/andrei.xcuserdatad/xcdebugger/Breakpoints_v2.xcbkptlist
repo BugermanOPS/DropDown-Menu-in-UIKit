@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5832418E-FE0C-4120-AD12-0133F955F590"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7B602B23-5385-4F8F-B49A-06A9FEDF9B09"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DropDown-Menu-in-UIKit/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "7B602B23-5385-4F8F-B49A-06A9FEDF9B09 - 41eb6ce00d5df224"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DropDown_Menu_in_UIKit.ViewController.stackButtonPlusTable.getter : Swift.Optional&lt;__C.UIStackView&gt;"
+                  moduleName = "DropDown-Menu-in-UIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrei/Fork/DropDown-Menu-in-UIKit/DropDown-Menu-in-UIKit/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "7B602B23-5385-4F8F-B49A-06A9FEDF9B09 - 27ad0ca13c455f88"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DropDown_Menu_in_UIKit.ViewController.stackButtonPlusTable.setter : Swift.Optional&lt;__C.UIStackView&gt;"
+                  moduleName = "DropDown-Menu-in-UIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrei/Fork/DropDown-Menu-in-UIKit/DropDown-Menu-in-UIKit/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "7B602B23-5385-4F8F-B49A-06A9FEDF9B09 - f1031086d253b57c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DropDown_Menu_in_UIKit.ViewController.stackButtonPlusTable.modify : Swift.Optional&lt;__C.UIStackView&gt;"
+                  moduleName = "DropDown-Menu-in-UIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrei/Fork/DropDown-Menu-in-UIKit/DropDown-Menu-in-UIKit/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "7B602B23-5385-4F8F-B49A-06A9FEDF9B09 - ce63c9a75a426057"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DropDown_Menu_in_UIKit.ViewController.stackButtonPlusTable.modify : Swift.Optional&lt;__C.UIStackView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "DropDown-Menu-in-UIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrei/Fork/DropDown-Menu-in-UIKit/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "7B602B23-5385-4F8F-B49A-06A9FEDF9B09 - fa19436ddedaa17a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DropDown_Menu_in_UIKit.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; DropDown_Menu_in_UIKit.ViewController"
+                  moduleName = "DropDown-Menu-in-UIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrei/Fork/DropDown-Menu-in-UIKit/DropDown-Menu-in-UIKit/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "7B602B23-5385-4F8F-B49A-06A9FEDF9B09 - dde5ab5fe8fcfb63"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DropDown_Menu_in_UIKit.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;DropDown_Menu_in_UIKit.ViewController&gt;"
+                  moduleName = "DropDown-Menu-in-UIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrei/Fork/DropDown-Menu-in-UIKit/DropDown-Menu-in-UIKit/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "7B602B23-5385-4F8F-B49A-06A9FEDF9B09 - 470f92b5d841cfae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DropDown_Menu_in_UIKit.ViewController.stackButtonInSide.getter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "DropDown-Menu-in-UIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrei/Fork/DropDown-Menu-in-UIKit/DropDown-Menu-in-UIKit/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "7B602B23-5385-4F8F-B49A-06A9FEDF9B09 - 4c8712910acfbfd2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DropDown_Menu_in_UIKit.ViewController.stackButtonInSide.setter : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "DropDown-Menu-in-UIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrei/Fork/DropDown-Menu-in-UIKit/DropDown-Menu-in-UIKit/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "7B602B23-5385-4F8F-B49A-06A9FEDF9B09 - ddc562cc226ea23d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DropDown_Menu_in_UIKit.ViewController.stackButtonInSide.modify : Swift.Optional&lt;__C.UIButton&gt;"
+                  moduleName = "DropDown-Menu-in-UIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrei/Fork/DropDown-Menu-in-UIKit/DropDown-Menu-in-UIKit/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "7B602B23-5385-4F8F-B49A-06A9FEDF9B09 - 92d7f7cda37e52ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DropDown_Menu_in_UIKit.ViewController.stackButtonInSide.modify : Swift.Optional&lt;__C.UIButton&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "DropDown-Menu-in-UIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrei/Fork/DropDown-Menu-in-UIKit/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "7B602B23-5385-4F8F-B49A-06A9FEDF9B09 - fa19436ddedabe95"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DropDown_Menu_in_UIKit.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; DropDown_Menu_in_UIKit.ViewController"
+                  moduleName = "DropDown-Menu-in-UIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrei/Fork/DropDown-Menu-in-UIKit/DropDown-Menu-in-UIKit/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "7B602B23-5385-4F8F-B49A-06A9FEDF9B09 - dde5ab5fe8fce48c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DropDown_Menu_in_UIKit.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;DropDown_Menu_in_UIKit.ViewController&gt;"
+                  moduleName = "DropDown-Menu-in-UIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrei/Fork/DropDown-Menu-in-UIKit/DropDown-Menu-in-UIKit/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "14AAF513-C29C-47C1-AAFE-84196D87308D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DropDown-Menu-in-UIKit/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "14AAF513-C29C-47C1-AAFE-84196D87308D - 598cc9a44602bfa2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DropDown_Menu_in_UIKit.ViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "DropDown-Menu-in-UIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrei/Fork/DropDown-Menu-in-UIKit/DropDown-Menu-in-UIKit/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "508">
+               </Location>
+               <Location
+                  uuid = "14AAF513-C29C-47C1-AAFE-84196D87308D - 598cc9a44602bfa2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DropDown_Menu_in_UIKit.ViewController.tableView(_: __C.UITableView, cellForRowAt: Foundation.IndexPath) -&gt; __C.UITableViewCell"
+                  moduleName = "DropDown-Menu-in-UIKit"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/andrei/Fork/DropDown-Menu-in-UIKit/DropDown-Menu-in-UIKit/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
